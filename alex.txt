@@ -1,0 +1,2 @@
+File handling in Java refers to the process of interacting with  files stored on a computer's disk, including operations like creating,reading, writing, and deleting files.
+Java provides comprehensive support for file handling through its java.io andjava.nio.file packages.
